@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/monsters-react-training/static/js/main.ca1614b7.chunk.js",
-    "main.js.map": "/monsters-react-training/static/js/main.ca1614b7.chunk.js.map",
+    "main.js": "/monsters-react-training/static/js/main.a71b301b.chunk.js",
+    "main.js.map": "/monsters-react-training/static/js/main.a71b301b.chunk.js.map",
     "runtime-main.js": "/monsters-react-training/static/js/runtime-main.1df8849a.js",
     "runtime-main.js.map": "/monsters-react-training/static/js/runtime-main.1df8849a.js.map",
     "static/js/2.a8eb5b14.chunk.js": "/monsters-react-training/static/js/2.a8eb5b14.chunk.js",
     "static/js/2.a8eb5b14.chunk.js.map": "/monsters-react-training/static/js/2.a8eb5b14.chunk.js.map",
     "index.html": "/monsters-react-training/index.html",
-    "precache-manifest.2d8ce6a34f41941060db677431fb8a70.js": "/monsters-react-training/precache-manifest.2d8ce6a34f41941060db677431fb8a70.js",
+    "precache-manifest.abf02015645d3c071022499dc3b73ba4.js": "/monsters-react-training/precache-manifest.abf02015645d3c071022499dc3b73ba4.js",
     "service-worker.js": "/monsters-react-training/service-worker.js",
     "static/js/2.a8eb5b14.chunk.js.LICENSE.txt": "/monsters-react-training/static/js/2.a8eb5b14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1df8849a.js",
     "static/js/2.a8eb5b14.chunk.js",
-    "static/js/main.ca1614b7.chunk.js"
+    "static/js/main.a71b301b.chunk.js"
   ]
 }
