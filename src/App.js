@@ -38,7 +38,6 @@ class App extends Component {
         )
 
         return <div>
-            <span>korrr</span>
             <SearchBox changeHandler={this.search}></SearchBox>
            <CardList monsters={filtered} ></CardList>
         </div>
